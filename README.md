@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Prasad
-##🌱 I’m currently learning Java Script
-##🔭 Trying to learn backend 
-##👯 Working as a frontend developer 
+ 🌱 I’m currently learning Java Script                                                                                                                                           🔭 Trying to learn backend                                                                                                                                                      💬 Working as a frontend developer 
+     
+    
 <!--
 **prasad2k24/prasad2k24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
