@@ -11,7 +11,7 @@ Web Development: HTML | CSS | JavaScript
 
 🔍 Interests:
 
-Data Visualization & Dashboards
+Data Visualization & Dashboards<br>
 Web Applications
 Machine Learning Projects
 Plant Disease Detection & AgriTech Solutions 🌱
