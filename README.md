@@ -1,12 +1,23 @@
-<h1 align="center">Hi 👋, I'm Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+👋 Hi there, I’m Prasad Kanhurkar
+I'm a passionate learner and tech enthusiast with a focus on data analysis, web development, and automation. I enjoy building smart solutions that blend data insights with intuitive user interfaces.
 
-- 🌱 I’m currently learning **Java script**
+🛠️ Languages & Tools:
+Programming & Data: Python | Jupyter Notebook | DAX (Power BI)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Web Development: HTML | CSS | JavaScript
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+🔍 Interests:
+Data Visualization & Dashboards
 
+Web Applications
+
+Machine Learning Projects
+
+Plant Disease Detection & AgriTech Solutions 🌱
+
+📈 Currently Exploring:
+Full-stack development with Python
+
+Advanced DAX functions for business intelligence
+
+Real-world AI solutions for sustainability
