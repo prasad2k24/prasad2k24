@@ -1,4 +1,4 @@
-👋 Hi there, I’m Prasad Kanhurkar
+👋 Hi there, I’m Prasad Kanhurkar /n
 I'm a passionate learner and tech enthusiast with a focus on data analysis, web development, and automation. I enjoy building smart solutions that blend data insights with intuitive user interfaces.
 
 🛠️ Languages & Tools:
