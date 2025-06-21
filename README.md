@@ -5,20 +5,20 @@ I'm a passionate learner and tech enthusiast with a focus on data analysis, web 
 
 🛠️ Languages & Tools:
 
-Programming & Data: Python | Jupyter Notebook | DAX (Power BI)
+Programming & Data: Python | Jupyter Notebook | DAX (Power BI)<br>
 Web Development: HTML | CSS | JavaScript
 
 
 🔍 Interests:
 
 Data Visualization & Dashboards<br>
-Web Applications
-Machine Learning Projects
+Web Applications<br>
+Machine Learning Projects<br>
 Plant Disease Detection & AgriTech Solutions 🌱
 
 
 📈 Currently Exploring:
 
-Full-stack development with Python
-Advanced DAX functions for business intelligence
+Full-stack development with Python<br>
+Advanced DAX functions for business intelligence<br>
 Real-world AI solutions for sustainability
